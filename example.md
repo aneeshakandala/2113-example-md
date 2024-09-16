@@ -24,4 +24,4 @@ This is *italic* and **THIS** is in bold
 
 ## Installation (BSD and Linux)
 
-
+[^1]: footnote lololol
