@@ -23,5 +23,3 @@ This is *italic* and **THIS** is in bold
 >quote
 
 ## Installation (BSD and Linux)
-
-[^1]: footnote lololol
